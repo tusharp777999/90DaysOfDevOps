@@ -67,5 +67,6 @@ L: Loop
 
 >exit() #It exits from Interactive Shell.
 '''
+#Note: Always use snake case in python.
 
 
